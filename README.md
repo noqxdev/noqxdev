@@ -5,6 +5,9 @@
 [![Discord User](https://img.shields.io/badge/Discord:%20noqx-2185FF)](https://127.0.0.1)
 [![ProjectLua](https://img.shields.io/badge/Project%20Lua-107BFF)](https://github.com/noqxdev/ProjectLuaFN)
 # =========================
+- **hobby dev**
+- **15 y/o**
+- **owner of project Lua**
 <!--
 **noqxdev/noqxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

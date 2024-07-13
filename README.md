@@ -1,6 +1,9 @@
 # <img src="https://i.ibb.co/SyDzPph/PROJECTLUALOGONqx1.png" width="80"/>   
 # Noqxdev
-# 
+# =========================
+ [![Discord](https://img.shields.io/badge/discord-blue)](https://discord.gg/4F9nMAcT9p)
+[![Discord User](https://img.shields.io/badge/Discord:%20noqx-8A2BE2)](https://127.0.0.1)
+
 <!--
 **noqxdev/noqxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

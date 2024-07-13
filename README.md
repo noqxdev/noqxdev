@@ -1,9 +1,10 @@
 # <img src="https://i.ibb.co/SyDzPph/PROJECTLUALOGONqx1.png" width="80"/>   
-# Noqxdev
+# Noqxdev - Fun Developer
 # =========================
- [![Discord](https://img.shields.io/badge/discord-blue)](https://discord.gg/4F9nMAcT9p)
-[![Discord User](https://img.shields.io/badge/Discord:%20noqx-8A2BE2)](https://127.0.0.1)
-
+ [![Discord](https://img.shields.io/badge/discord-107BFF)](https://discord.gg/4F9nMAcT9p) 
+[![Discord User](https://img.shields.io/badge/Discord:%20noqx-2185FF)](https://127.0.0.1)
+[![ProjectLua](https://img.shields.io/badge/Project%20Lua-107BFF)](https://github.com/noqxdev/ProjectLuaFN)
+# =========================
 <!--
 **noqxdev/noqxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

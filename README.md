@@ -5,10 +5,6 @@
 [![Discord User](https://img.shields.io/badge/Discord:%20noqx-2185FF)](https://127.0.0.1)
 
 # ----------------------
-- **hobby dev** 
-- **15 y/o**
-
-
 
  <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=noqxdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />

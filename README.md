@@ -1,5 +1,5 @@
 # <img src="https://i.ibb.co/SyDzPph/PROJECTLUALOGONqx1.png" width="80"/>   
-# Noqxdev - hobby Developer
+# Noqxdev - random stuff
 # ----------------------
 
 [![Discord User](https://img.shields.io/badge/Discord:%20noqx-2185FF)](https://127.0.0.1)
